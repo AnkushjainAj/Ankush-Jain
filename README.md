@@ -46,6 +46,4 @@ I enjoy working with modern web technologies and contributing to open-source com
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnkushjainAj/AnkushjainAj/output/snake.svg" alt="Snake animation" />
 </div>
